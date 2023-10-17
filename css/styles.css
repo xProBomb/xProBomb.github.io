@@ -4,8 +4,9 @@ body {
     color: #ffffff;
     font-family: Times, serif;
     text-align: center;
+    font-size: 26px;
 }
 
-p1 {
-    font-size: 10px;
+p {
+    font-size: 20px;
 }
